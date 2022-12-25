@@ -61,7 +61,7 @@ namespace AloneWork_2_2._14
                 ProdImage = "Data/Утюг.jpg",
                 ProductCategory = ProductCategorys.Appliances
             });
-            listBox.ItemsSource = products;
+            listblok.ItemsSource = products;
         }
     }
 }
