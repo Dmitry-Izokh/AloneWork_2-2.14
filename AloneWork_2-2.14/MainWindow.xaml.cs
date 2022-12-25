@@ -30,7 +30,7 @@ namespace AloneWork_2_2._14
             {
                 ProdName="Бананы",
                 ProdPrice=70,
-                ProdImage = "Data/Бананы.jpg"
+                ProdImage = "Data/Бананы.jpg",
                 ProductCategory=ProductCategorys.Food
             });
             products.Add(new Product()
